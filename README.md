@@ -14,5 +14,13 @@
 
 ![g3](g3.png)
 
+## Paper-Rock-Scissors
+---------------
+
+![prs1](prs1.png)
+
+![prs2](prs2.png)
+
+
 
 
